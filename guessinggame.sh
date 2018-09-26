@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 #File: guessinggame.sh
-
 echo "How many files are inside this directory?"
 read response
 
